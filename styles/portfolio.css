@@ -49,10 +49,12 @@ nav a{
 }
 /* header related styles */
 .header{
-    color:white;
+    color: black;
 }
 .banner{
     padding: 30px 30px 30px 150px;
+    background-color:antiquewhite ;
+    
 }
 .verenda-title{
     color: black;
