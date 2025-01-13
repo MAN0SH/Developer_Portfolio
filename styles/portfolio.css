@@ -27,6 +27,7 @@ nav{
     justify-content: space-between;
 
     align-items: center;
+    margin:0 200px;
 
 } 
 .mary-title{
@@ -46,3 +47,16 @@ nav a{
     text-decoration: none;
     color: #474747;
 }
+/* header related styles */
+.header{
+    color:white;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+}
+.verenda-title{
+    color: black;
+    size: 20px;
+    
+}
+
