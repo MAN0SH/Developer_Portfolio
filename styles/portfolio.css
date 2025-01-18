@@ -50,15 +50,37 @@ nav a{
 /* header related styles */
 .header{
     color: black;
+    background-image:url('../images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 1000px;
 }
 .banner{
     padding: 30px 30px 30px 150px;
-    background-color:antiquewhite ;
+  display: flex;
     
+    justify-content: space-between;
+    
+}
+.banner-greeting{
+    width:200px;
+}
+.banner-title{
+    color: #fd6e0a;
+    font-size: 85px;
+    font-style: normal;
+    font-weight: 700;
 }
 .verenda-title{
-    color: black;
-    size: 20px;
+    color: rgb(63, 54, 50);
+
     
 }
+.banner .profile-picture{
+    width: 300px;
+    height: 400px;
+    shape-margin: 50%;
+    
+}
+
 
