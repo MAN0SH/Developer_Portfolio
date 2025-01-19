@@ -113,3 +113,9 @@ main{
 .about-info{
     text-align: center;
 }
+#what-i-did-doing{
+    padding: 30px 150px;
+}
+.section-title{
+    background-color: #edd5c3; 
+}
